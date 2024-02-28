@@ -1,0 +1,44 @@
+[
+{
+  "directory": "F:/Tugas/strukturData/cpp/TugasPraktikum1/build",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/TugasPraktikum1/include -g -o CMakeFiles\\TugasPraktikum1.dir\\main.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\main.cpp",
+  "file": "F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\main.cpp",
+  "output": "CMakeFiles\\TugasPraktikum1.dir\\main.cpp.obj"
+},
+{
+  "directory": "F:/Tugas/strukturData/cpp/TugasPraktikum1/build",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/TugasPraktikum1/include -g -o CMakeFiles\\TugasPraktikum1.dir\\src\\functionMisc\\clearscreen\\clearscreen.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\src\\functionMisc\\clearscreen\\clearscreen.cpp",
+  "file": "F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\src\\functionMisc\\clearscreen\\clearscreen.cpp",
+  "output": "CMakeFiles\\TugasPraktikum1.dir\\src\\functionMisc\\clearscreen\\clearscreen.cpp.obj"
+},
+{
+  "directory": "F:/Tugas/strukturData/cpp/TugasPraktikum1/build",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/TugasPraktikum1/include -g -o CMakeFiles\\TugasPraktikum1.dir\\src\\functionMisc\\loading\\loading.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\src\\functionMisc\\loading\\loading.cpp",
+  "file": "F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\src\\functionMisc\\loading\\loading.cpp",
+  "output": "CMakeFiles\\TugasPraktikum1.dir\\src\\functionMisc\\loading\\loading.cpp.obj"
+},
+{
+  "directory": "F:/Tugas/strukturData/cpp/TugasPraktikum1/build",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/TugasPraktikum1/include -g -o CMakeFiles\\TugasPraktikum1.dir\\src\\functionMisc\\pauseconsole\\pauseconsole.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\src\\functionMisc\\pauseconsole\\pauseconsole.cpp",
+  "file": "F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\src\\functionMisc\\pauseconsole\\pauseconsole.cpp",
+  "output": "CMakeFiles\\TugasPraktikum1.dir\\src\\functionMisc\\pauseconsole\\pauseconsole.cpp.obj"
+},
+{
+  "directory": "F:/Tugas/strukturData/cpp/TugasPraktikum1/build",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/TugasPraktikum1/include -g -o CMakeFiles\\TugasPraktikum1.dir\\src\\functionMisc\\intro\\intro.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\src\\functionMisc\\intro\\intro.cpp",
+  "file": "F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\src\\functionMisc\\intro\\intro.cpp",
+  "output": "CMakeFiles\\TugasPraktikum1.dir\\src\\functionMisc\\intro\\intro.cpp.obj"
+},
+{
+  "directory": "F:/Tugas/strukturData/cpp/TugasPraktikum1/build",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/TugasPraktikum1/include -g -o CMakeFiles\\TugasPraktikum1.dir\\src\\functionTugas\\groupArray\\groupArray.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\src\\functionTugas\\groupArray\\groupArray.cpp",
+  "file": "F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\src\\functionTugas\\groupArray\\groupArray.cpp",
+  "output": "CMakeFiles\\TugasPraktikum1.dir\\src\\functionTugas\\groupArray\\groupArray.cpp.obj"
+},
+{
+  "directory": "F:/Tugas/strukturData/cpp/TugasPraktikum1/build",
+  "command": "G:\\Aplikasi\\MSYS2\\ucrt64\\bin\\g++.exe -IF:/Tugas/strukturData/cpp/TugasPraktikum1/include -g -o CMakeFiles\\TugasPraktikum1.dir\\src\\functionTugas\\pointer\\pointer.cpp.obj -c F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\src\\functionTugas\\pointer\\pointer.cpp",
+  "file": "F:\\Tugas\\strukturData\\cpp\\TugasPraktikum1\\src\\functionTugas\\pointer\\pointer.cpp",
+  "output": "CMakeFiles\\TugasPraktikum1.dir\\src\\functionTugas\\pointer\\pointer.cpp.obj"
+}
+]
